@@ -1,0 +1,31 @@
+body {
+    background-color: #0EAB6D;  /* kolor tła 'background = tło' */
+    font-family: Arial, sans-serif; /* czcionka*/
+    text-align: center; /* wyśrodkowania tekstu*/
+    padding-top: 50px; /* odstęp od góry 'top = góra' */
+}
+
+h1 {
+    color: #FF0000; /* To odpowiada za kolor */
+}
+
+h2 {
+    color: #00FF00; /* To odpowiada za kolor */
+}
+
+
+p {
+    color: #555; /* To odpowiada za kolor */
+    font-size: 18px; /* wielkość czcionki */
+}
+`
+/* kolory do wyboru
+biały: #FFFFFF
+czerwony: #FF0000
+zielony: #00FF00
+niebieski: #0000FF
+
+aby wybrać inne wejdź na stronę: https://htmlcolorcodes.com/
+ */
+
+
